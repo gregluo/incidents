@@ -1,3 +1,6 @@
+Implemented with Angular5.2 and Material 5.2.4.
+Consumed time: 2 hours.
+
 # Incidents
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
